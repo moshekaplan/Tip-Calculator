@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tip Calculator</string>
+    <string name="welcome_message">Hello. Put in the cash amount of your bill</string>
+    <string name="about">About</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="amount">Amount</string>
+    <string name="calculate">calculate</string>
+    <string name="calculation_error">Invalid input</string>
+    <string name="tip_message">You should give a tip of $</string>
+    <string name="gratuity_hint">Percent</string>
+    <string name="currency_sign">$</string>
+    <string name="gratuity_message">Percent to give as tip</string>
+    <string name="default_gratuity">15</string>
+    <string name="ok">OK</string>
+    <string name="about_message">Made by Moshe Kaplan</string>
+</resources>
